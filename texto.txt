@@ -1,3 +1,0 @@
-Archivo de muestra txt, para ver si se usar el git
-
-Created by Dioniciot
